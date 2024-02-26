@@ -28,7 +28,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>HelloJava</mainClass>
+              <mainClass>Sauts</mainClass>
             </manifest>
           </archive>
         </configuration>
